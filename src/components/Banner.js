@@ -1,6 +1,7 @@
 import "../styles/banner.css";
 import logo from "../assets/logo.png";
 
+
 function Banner() {
   const title = "La maison jungle";
   return (
